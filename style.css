@@ -1,0 +1,23 @@
+/*Your CSS code goes below this line*/
+body{
+    background-color: orangered;
+}
+h2{
+    color: white;
+    font-size: large;
+}
+.one{
+    background-color: green;
+    color: white;
+    font-size: small;
+}
+.two{
+    background-color: yellow;
+    color: white;
+    font-size: small;
+}
+.three{
+    background-color: purple;
+    color: white;
+    font-size: small;
+}
